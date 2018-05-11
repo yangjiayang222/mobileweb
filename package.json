@@ -1,0 +1,19 @@
+{
+  "name": "ydt-mobile-web",
+  "version": "0.0.1",
+  "description": "ydt 移动端页面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangjiayang222/mobileweb.git"
+  },
+  "author": "doubleY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangjiayang222/mobileweb/issues"
+  },
+  "homepage": "https://github.com/yangjiayang222/mobileweb#readme"
+}
